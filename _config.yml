@@ -1,2 +1,2 @@
 theme: jekyll-theme-cayman
-title: {{site.name}} - ItsRage
+title: {{ page.title }} - ItsRage
