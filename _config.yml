@@ -1,2 +1,8 @@
 theme: jekyll-theme-cayman
 title: ItsRage
+navbar:
+  left:
+    - text: "Home"
+      href: /
+    - text: "About"
+      href: /about
