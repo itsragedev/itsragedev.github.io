@@ -1,0 +1,7 @@
+navbar:
+  left:
+    - text: "Home"
+      href: /
+    - text: "About"
+      href: /about
+output_dir: "."
