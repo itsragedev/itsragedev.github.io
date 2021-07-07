@@ -1,8 +1,8 @@
 theme: jekyll-theme-cayman
 title: ItsRage
-navbar:
-  left:
-    - text: "Home"
-      href: /
-    - text: "About"
-      href: /about
+navbar-links:
+  Home:  "/"
+  About: "/about"
+  Social:
+   - YouTube: "//youtu.be/666"
+   - twitch: "//dankmemer.lol"
