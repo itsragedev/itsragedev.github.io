@@ -1,3 +1,2 @@
 {% include navigation.html %}
-{{ site.data.navigation }}
-gaming
+# Web Work In Progress
