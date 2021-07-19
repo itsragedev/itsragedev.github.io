@@ -1,8 +1,8 @@
 theme: minima
 title: ItsRage
 navbar-links:
-  Home:  "/"
-  About: "/about"
-  Social:
-   - YouTube: "//youtu.be/666"
-   - twitch: "//dankmemer.lol"
+	Home:  "/"
+	About: "/about"
+	Social:
+		- YouTube: "//youtu.be/666"
+		- twitch: "//dankmemer.lol"
