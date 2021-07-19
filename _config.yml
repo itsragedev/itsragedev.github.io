@@ -1,5 +1,2 @@
 theme: minima
-title: ItsRage
-header-pages:
-  - index.md
-  - about.md
+title: {{ site.title }} - ItsRage
