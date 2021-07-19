@@ -1,5 +1,5 @@
 theme: minima
 title: ItsRage
 header-pages:
-  - index.md: Home
+  - index.md
   - about.md
