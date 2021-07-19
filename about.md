@@ -1,2 +1,1 @@
-## About
-I am ItsRage. hello
+shitty webpage with a fuckton of issues
